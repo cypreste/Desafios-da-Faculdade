@@ -103,5 +103,6 @@ int main() {
             printf("Opção inválida! Tente novamente com um número de 1 a 5.\n");
     }
 
-    return 0;
+return 0;
 }
+// Fim do código
