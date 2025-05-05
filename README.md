@@ -1,0 +1,1 @@
+# -Super-Trunfo-de-Paises-Nivel-Aventureiro
