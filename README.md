@@ -71,4 +71,3 @@ Vencedor: Brasil
 - Decisões aninhadas com `if-else`.
 - Entrada e saída de dados com `scanf` e `printf`.
 - Comparação de diferentes tipos de variáveis (`int`, `float`, `char[]`).
-- Regras de negócio diferentes para atributos específicos.
